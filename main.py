@@ -6,4 +6,5 @@ class MainApp(App):
         return Button(text='Welcome Dalal\nStreamBox is Ready!')
 
 if __name__ == '__main__':
-    MainApp().run()
+ MainApp().run()
+
